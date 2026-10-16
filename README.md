@@ -40,8 +40,7 @@ Ada 200 responden dengan 20 kolom. 13 kolom adalah data asli (usia, gender, dura
 4. Jalankan semua sel dari atas ke bawah (Runtime lalu Run all).
 
 ## Tools
-
-Python, pandas, Matplotlib, Google Colab
+Google Colab
 
 ## Penulis
 
